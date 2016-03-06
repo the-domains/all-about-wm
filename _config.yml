@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#F0E8E8'
+    - '#C00830'
+    - '#707878'
+    - '#D80030'
+    - '#E890A8'
+  brandStrength: 0.315878
+  lightness: 0.384498
+  rhythmicContrast: 0.574658
+  saturation: 0.597789
+cta: {}
+layout_spectrum: 1
+name: ALL ABOUT WM
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.390202
