@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ALL ABOUT WM]]></title>
+        <description><![CDATA[ALL ABOUT WM]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 07:59:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://fb.me/msg/WanAzmanWMBlog</p>]]></description>
+            <link>undefinedhttpfbmemsgwanazmanwmblog/index.html</link>
+            <guid isPermaLink="false">30810978-312d-4643-8118-b065b7ee3ece</guid>
+            <pubDate>Tue, 08 Mar 2016 07:59:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
