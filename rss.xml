@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ALL ABOUT WM]]></title>
         <description><![CDATA[ALL ABOUT WM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/all-about-wm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 07:59:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 08:01:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/all-about-wm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ALL ABOUT WM]]></title>
+            <description><![CDATA[<article><h1>ALL ABOUT WM</h1></article>]]></description>
+            <link>https://thegrid.ai/all-about-wm/</link>
+            <guid isPermaLink="false">6d5af799-f906-4428-87dc-6c5b99085182</guid>
+            <pubDate>Tue, 08 Mar 2016 08:00:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>http://fb.me/msg/WanAzmanWMBlog</p>]]></description>
-            <link>undefinedhttpfbmemsgwanazmanwmblog/index.html</link>
+            <link>https://thegrid.ai/all-about-wm/httpfbmemsgwanazmanwmblog/index.html</link>
             <guid isPermaLink="false">30810978-312d-4643-8118-b065b7ee3ece</guid>
             <pubDate>Tue, 08 Mar 2016 07:59:20 GMT</pubDate>
         </item>
