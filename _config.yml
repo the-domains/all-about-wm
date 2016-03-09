@@ -1,18 +1,30 @@
-analytics: {}
+cta: {}
 color:
+  rhythmicContrast: 0.574658
+  brandStrength: 0.981203
+  saturation: 0.597789
   brandColors:
     - '#F0E8E8'
     - '#C00830'
     - '#707878'
     - '#D80030'
     - '#E890A8'
-  brandStrength: 0.981203
   lightness: 0.384498
-  rhythmicContrast: 0.574658
-  saturation: 0.597789
-cta: {}
-layout_spectrum: 0.999462
-name: ALL ABOUT WM
-opengraph: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: {}
+analytics: {}
+layout_spectrum: 0.999462
 typography_spectrum: 0.7814178
+opengraph: {}
+name: ALL ABOUT WM
