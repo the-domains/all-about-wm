@@ -1,4 +1,18 @@
-cta: {}
+name: ALL ABOUT WM
+purpose: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+opengraph: {}
 color:
   rhythmicContrast: 0.574658
   brandStrength: 0.981203
@@ -10,21 +24,7 @@ color:
     - '#D80030'
     - '#E890A8'
   lightness: 0.384498
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-purpose: {}
-analytics: {}
-layout_spectrum: 0.999462
 typography_spectrum: 0.7814178
-opengraph: {}
-name: ALL ABOUT WM
+cta: {}
+analytics: {}
+layout_spectrum: 0.3528464
