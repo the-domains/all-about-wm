@@ -1,15 +1,15 @@
 ---
 description: 'http://www.elledecor.com/'
 author: []
-datePublished: '2016-03-12T12:59:41.531Z'
+datePublished: '2016-03-12T16:14:18.363Z'
 publisher:
   name: ''
   domain: ''
 title: 'http://www.insurancesplash.com/blog/insurance-agency-processes/'
-dateModified: '2016-03-12T12:28:02.560Z'
+dateModified: '2016-03-12T16:14:08.161Z'
 sourcePath: _posts/2016-03-12-httpwwwinsurancesplashcombloginsurance-agency-process.md
 published: true
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
