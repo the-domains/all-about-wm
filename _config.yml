@@ -3,7 +3,9 @@ analytics: {}
 purpose: []
 github: true
 cta: {}
-author: {}
+author:
+  name: Wan Azman
+  email: wanazman@gmail.com
 collections:
   - index:
       path: /
