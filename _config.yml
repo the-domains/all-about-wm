@@ -1,30 +1,36 @@
 name: ALL ABOUT WM
-purpose: {}
+analytics: {}
+purpose: []
+github: true
+cta: {}
+author: {}
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-opengraph: {}
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 0.6440816328405301
 color:
-  saturation: 0.597789
-  brandStrength: 0.981203
-  lightness: 0.384498
+  lightness: 0.3676515417324729
   brandColors:
-    - '#1E1816'
-    - '#FC652F'
-    - '#E9E1DF'
-    - '#ACA4A2'
-    - '#655D5B'
-  rhythmicContrast: 0.574658
-typography_spectrum: 0.7814178
-cta: {}
-analytics: {}
-layout_spectrum: 0.3528464
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  saturation: 0.6229658180463248
+  brandStrength: 0.6724613994588652
+  rhythmicContrast: 0.9790022053532671
+content_rating:
+  adult: false
+typography_spectrum: 0.7264241604068049
+opengraph: {}
+title: A Lifestyle Of A Single Father
